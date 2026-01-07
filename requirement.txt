@@ -1,0 +1,4 @@
+modelscope==1.24.0
+pandas==2.3.3
+qwen_vl_utils==0.0.14
+torch==2.4.0
