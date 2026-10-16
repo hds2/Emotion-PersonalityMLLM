@@ -74,9 +74,6 @@ d2 = ground_truth.columns
 > transcripts_opva: pandas dataframe 文件，包含了685个被试回答8个问题的文本内容。被试的编号储存在第一列中。
 > transcripts_prolific: pandas dataframe 文件，包含了636个被试回答6个问题的文本内容。被试的编号储存在第一列中。
 
-## 视频数据下载地址
-OPVA.7z
-链接: https://pan.baidu.com/s/1hmgI9oLz2kvmNCgm5QvuTA?pwd=tumf 提取码: tumf 
 
 
 ## 文件夹说明
@@ -90,8 +87,6 @@ OPVA.7z
 ### `get_answer/`
  - MLLM进行最终的人格评估的相关代码。
 
-### `deepmodel/`
- - baseline模型相关代码，仅供参考。
 
 ### `model.py`
 ```python
